@@ -20,4 +20,8 @@ alias yu='yarn upgrade ';
 alias yg='yarn global add '
 
 
+alias syb='sudo yarn build';
+alias syd='sudo yarn dev';
+
+
 unset ROOT_PATH;
