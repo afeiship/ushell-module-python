@@ -19,7 +19,7 @@ alias yr='yarn remove ';
 alias yu='yarn upgrade ';
 alias yg='yarn global add '
 
-
+# add sudo for 80 env:
 alias syb='sudo yarn build';
 alias syd='sudo yarn dev';
 
