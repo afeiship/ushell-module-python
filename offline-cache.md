@@ -18,3 +18,7 @@ yarn config set yarn-offline-mirror ~/npm-packages-offline-cache
 cd ~/npm-packages-offline-cache
 ls -alh
 ```
+
+
+## resouces:
++ https://yarnpkg.com/blog/2016/11/24/offline-mirror/
