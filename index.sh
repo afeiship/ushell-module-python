@@ -12,6 +12,7 @@ alias yb='yarn build';
 alias yd='yarn dev';
 alias yl='yarn dll';
 alias ys='yarn start';
+alias yt='yarn test';
 alias ya='yarn add ';
 alias ya-d='yarn add -D ';
 alias ya-g='yarn global add ';
