@@ -10,8 +10,6 @@ alias yi='yarn install';
 alias y='yarn';
 alias yb='yarn build';
 alias yd='yarn dev';
-alias yu='yarn upgrade';
-alias yv='yarn version';
 alias yl='yarn dll';
 alias ys='yarn start';
 alias yt='yarn test';
@@ -20,6 +18,7 @@ alias ya-d='yarn add -D ';
 alias ya-g='yarn global add ';
 alias yr='yarn remove ';
 alias yu='yarn upgrade ';
+alias yv='yarn version ';
 alias yg='yarn global add '
 
 # add sudo for 80 env:
