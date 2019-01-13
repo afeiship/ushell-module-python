@@ -17,8 +17,8 @@ alias ya='yarn add ';
 alias ya-d='yarn add -D ';
 alias ya-g='yarn global add ';
 alias yr='yarn remove ';
-alias yu='yarn upgrade ';
-alias yv='yarn version ';
+alias yu='npm run upgrade';
+alias yv='npm run version';
 alias yg='yarn global add '
 
 # add sudo for 80 env:
