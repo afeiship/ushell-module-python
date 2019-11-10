@@ -12,6 +12,7 @@ alias yb='yarn build';
 alias yd='yarn dev';
 alias yl='npm run logs';
 alias ys='yarn start';
+alias yst='yarn storybook';
 alias yt='yarn test';
 alias ya='yarn add ';
 alias ya-d='yarn add -D ';
