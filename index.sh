@@ -22,7 +22,13 @@ alias ya-g='yarn global add ';
 alias yr='yarn remove ';
 alias yu='npm run upgrade';
 alias yv='npm run version';
-alias yg='yarn global add '
+alias yg='yarn global add ';
+
+# release step1/2/3
+alias ypr='yarn run release';
+alias ypp='yarn run publish';
+alias ypt='yarn run tagging';
+
 
 # add sudo for 80 env:
 alias syb='sudo yarn build';
