@@ -29,6 +29,9 @@ alias ypr='yarn run release';
 alias ypp='yarn run publish';
 alias ypt='yarn run tagging';
 
+# version
+alias yvp='yarn version patch';
+
 
 # add sudo for 80 env:
 alias syb='sudo yarn build';
