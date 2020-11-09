@@ -8,11 +8,14 @@
     "url": "git+https://github.com/afeiship/ushell-module-yarn.git"
   },
   "keywords": [
-    "ushell",
+    "yarn",
     "unix",
     "shell",
-    "system",
-    "infomation"
+    "nodejs",
+    "npm",
+    "cli",
+    "command",
+    "alias"
   ],
   "author": "afei",
   "license": "MIT",
