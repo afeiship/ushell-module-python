@@ -33,9 +33,4 @@ alias ypt='yarn run tagging';
 alias yvp='yarn version patch';
 
 
-# add sudo for 80 env:
-alias syb='sudo yarn build';
-alias syd='sudo yarn dev';
-
-
 unset ROOT_PATH;
