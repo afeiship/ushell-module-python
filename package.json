@@ -1,35 +1,31 @@
 {
-  "name": "@jswork/ushell-module-yarn",
-  "version": "1.0.2",
-  "description": "Unix like shell module for yarn.",
+  "name": "@jswork/ushell-module-python",
+  "version": "1.0.0",
+  "description": "Unix like shell module for python.",
   "main": "index.sh",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/afeiship/ushell-module-yarn.git"
+    "url": "git+https://github.com/afeiship/ushell-module-python.git"
   },
   "keywords": [
-    "yarn",
+    "ushell",
     "unix",
     "shell",
-    "nodejs",
-    "npm",
-    "cli",
-    "command",
-    "alias"
+    "ushell-module-python"
   ],
-  "author": "afei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/afeiship/ushell-module-yarn/issues"
+    "url": "https://github.com/afeiship/ushell-module-python/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-yarn#readme",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
+  "homepage": "https://github.com/afeiship/ushell-module-python",
   "scripts": {
     "release": "release-it"
   },
   "devDependencies": {
-    "release-it": "^14.4.1"
+    "release-it": "^14.2.1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   }
 }

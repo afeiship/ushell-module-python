@@ -1,21 +1,23 @@
-# ushell-module-yarn
-> Unix like shell module for yarn.
+# ushell-module-python
+> Unix like shell module for python.
+
+[![version][version-image]][version-url]
+[![license][license-image]][license-url]
+[![download][download-image]][download-url]
 
 ## installation
 ```shell
-npm i -S @jswork/ushell-module-yarn
+npm i -S @jswork/ushell-module-python
 ```
 
-## resources
-- https://yarnpkg.com/en/docs/cli/run
-- https://segmentfault.com/a/1190000007189426
+## license
+Code released under [the MIT license](https://github.com/afeiship/ushell-module-python/blob/master/LICENSE.txt).
 
-## config
-```shell
-## use taobao npm registry:
-yarn config set registry https://registry.npm.taobao.org
+[version-image]: https://img.shields.io/npm/v/@jswork/ushell-module-python
+[version-url]: https://npmjs.org/package/@jswork/ushell-module-python
 
-## when install slowly:
-npm config rm proxy
-npm config rm https-proxy
-```
+[license-image]: https://img.shields.io/npm/l/@jswork/ushell-module-python
+[license-url]: https://github.com/afeiship/ushell-module-python/blob/master/LICENSE.txt
+
+[download-image]: https://img.shields.io/npm/dm/@jswork/ushell-module-python
+[download-url]: https://www.npmjs.com/package/@jswork/ushell-module-python
