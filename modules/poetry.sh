@@ -6,7 +6,7 @@ alias pyp="poetry publish";
 alias pyr="poetry run";
 alias pyi="poetry install";
 alias pyu="poetry remove";
-alias pyv="poetry version";
+alias pyv="poetry version patch";
 
 # add
 alias pya-s="poetry add";
