@@ -1,6 +1,6 @@
 {
   "name": "@jswork/ushell-module-python",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Unix like shell module for python.",
   "main": "index.sh",
   "repository": {
@@ -8,10 +8,12 @@
     "url": "git+https://github.com/afeiship/ushell-module-python.git"
   },
   "keywords": [
-    "ushell",
     "unix",
     "shell",
-    "ushell-module-python"
+    "cli",
+    "command",
+    "alias",
+    "python"
   ],
   "license": "MIT",
   "bugs": {
