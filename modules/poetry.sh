@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # basic
-alias poy="poetry";
+alias poe="poetry";
 alias pyb="poetry build";
 alias pyp="poetry publish";
 alias pyr="poetry run";
