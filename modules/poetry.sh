@@ -1,14 +1,13 @@
 #!/usr/bin/env bash
 
 # basic
-alias poy="poetry";
-alias pyb="poetry build";
-alias pyp="poetry publish";
-alias pyr="poetry run";
-alias pyi="poetry install";
-alias pyu="poetry remove";
-alias pyv="poetry version patch";
+alias po-b="poetry build";
+alias po-p="poetry publish";
+alias po-r="poetry run";
+alias po-i="poetry install";
+alias po-r="poetry remove";
+alias po-vp="poetry version patch";
 
 # add
-alias pya-s="poetry add";
-alias pya-d="poetry add -D";
+alias po-s="poetry add";
+alias po-d="poetry add -D";
