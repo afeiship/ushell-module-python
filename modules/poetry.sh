@@ -11,3 +11,6 @@ alias po-vp="poetry version patch";
 # add
 alias po-s="poetry add";
 alias po-d="poetry add -D";
+
+# quick cmd
+alias poci="poetry version patch && poetry build && poetry publish";
