@@ -7,6 +7,7 @@ alias py='python3';
 
 source $ROOT_PATH/modules/pip.sh;
 source $ROOT_PATH/modules/poetry.sh;
+source $ROOT_PATH/modules/pyenv.sh;
 source $ROOT_PATH/modules/scrapy.sh;
 
 
