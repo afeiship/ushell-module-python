@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # basic
+alias poo="poetry config pypi-token.pypi $PYPI_TOKEN";
 alias po-b="poetry build";
 alias po-p="poetry publish";
 alias po-r="poetry run";
