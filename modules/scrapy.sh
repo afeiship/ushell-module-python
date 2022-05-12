@@ -10,3 +10,6 @@ alias spy-gsc="scrapy genspider -t crawl";
 alias spy-c="scrapy crawl";
 alias spy-sh="scrapy shell";
 
+# tff
+alias tff="tail -f logs/spider.log";
+
