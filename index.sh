@@ -5,6 +5,7 @@ ROOT_PATH=$(dirname $BASH_SOURCE);
 alias py2='python';
 alias py='python3';
 
+source $ROOT_PATH/modules/openssl.sh;
 source $ROOT_PATH/modules/pip.sh;
 source $ROOT_PATH/modules/poetry.sh;
 source $ROOT_PATH/modules/pyenv.sh;
