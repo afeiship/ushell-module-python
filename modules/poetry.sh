@@ -14,5 +14,8 @@ alias po-vp="poetry version patch";
 alias po-s="poetry add";
 alias po-d="poetry add -D";
 
+# auth
+alias po-auth="poetry config pypi-token.pypi $PYPI_TOKEN";
+
 # quick cmd
 alias poci="poetry version patch && poetry build && poetry publish";
