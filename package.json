@@ -23,9 +23,6 @@
   "scripts": {
     "release": "release-it"
   },
-  "devDependencies": {
-    "release-it": "^14.14.3"
-  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
