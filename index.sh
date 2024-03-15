@@ -2,8 +2,8 @@
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
-alias py2='python';
-alias py='python3';
+alias py2='python2';
+alias py='python';
 
 source $ROOT_PATH/modules/openssl.sh;
 source $ROOT_PATH/modules/pip.sh;
